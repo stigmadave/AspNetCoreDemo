@@ -1,2 +1,2 @@
 # AspNetCoreDemo
-Demo de ASPNet Core
+An Asp.Net Core Demo
